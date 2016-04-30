@@ -20,6 +20,10 @@ $(function() {
             $.ajax({
                 url: "https://formspree.io/inadram@gmail.com",
                 type: "POST",
+	            headers: {
+		            'Accept': 'application/json',
+		            'Content-Type': 'application/x-www-form-urlencoded'
+	            },
                 data: {
                     name: name,
                     phone: phone,
