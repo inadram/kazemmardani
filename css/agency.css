@@ -333,7 +333,7 @@ section h3.section-subheading
     float: right;
     padding: 0 20px 0 100px;
     position: relative;
-    text-align: left;
+    text-align: right;
 }
 
 .timeline>li .timeline-panel:before
