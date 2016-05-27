@@ -379,7 +379,7 @@ section h3.section-subheading
 .timeline>li.timeline-inverted>.timeline-panel
 {
     float: right;
-    text-align: left;
+    text-align: right;
     padding: 0 20px 0 100px;
 }
 
@@ -454,7 +454,7 @@ section h3.section-subheading
     .timeline>li.timeline-inverted>.timeline-panel
     {
         float: right;
-        text-align: left;
+        text-align: right;
         padding: 0 30px 20px 20px;
     }
 }
