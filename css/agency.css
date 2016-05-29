@@ -430,7 +430,7 @@ section h3.section-subheading
     .timeline>li
     {
         margin-bottom: 20px;
-        min-height: 130px;
+        min-height: 150px;
     }
     .timeline>li .timeline-panel
     {
@@ -465,7 +465,7 @@ section h3.section-subheading
 {
     .timeline>li
     {
-        min-height: 100px;
+        min-height: 150px;
     }
     .timeline>li .timeline-panel
     {
@@ -493,7 +493,7 @@ section h3.section-subheading
 {
     .timeline>li
     {
-        min-height: 140px;
+        min-height: 150px;
     }
     .timeline>li .timeline-panel
     {
