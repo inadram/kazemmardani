@@ -371,9 +371,10 @@ section h3.section-subheading
 
 .timeline>li .timeline-image h4
 {
-    font-size: 10px;
-    line-height: 14px;
-    padding-top: 10%;
+    font-size: 9px;
+    line-height: 16px;
+    padding: 0 3px 0 3px;
+    margin-top: 14px;
 }
 
 .timeline>li.timeline-inverted>.timeline-panel
@@ -401,7 +402,7 @@ section h3.section-subheading
 
 .timeline>li:last-child
 {
-    margin-bottom: 0;
+    margin-bottom: 30px;
 }
 
 .timeline .timeline-heading h4
@@ -428,8 +429,8 @@ section h3.section-subheading
     }
     .timeline>li
     {
-        margin-bottom: 100px;
-        min-height: 100px;
+        margin-bottom: 20px;
+        min-height: 130px;
     }
     .timeline>li .timeline-panel
     {
@@ -443,13 +444,14 @@ section h3.section-subheading
         width: 110px;
         height: 110px;
         left: 50%;
-        margin-left: -50px;
+        margin-left: -55px;
     }
     .timeline>li .timeline-image h4
     {
-        font-size: 13px;
-        margin-top: 16px;
-        line-height: 18px;
+        font-size: 12px;
+        margin-top: 24px;
+        line-height: 16px;
+        padding :0 10px 0 10px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
@@ -463,7 +465,7 @@ section h3.section-subheading
 {
     .timeline>li
     {
-        min-height: 150px;
+        min-height: 100px;
     }
     .timeline>li .timeline-panel
     {
@@ -471,15 +473,15 @@ section h3.section-subheading
     }
     .timeline>li .timeline-image
     {
-        width: 160px;
-        height: 160px;
-        margin-left: -75px;
+        width: 130px;
+        height: 130px;
+        margin-left: -65px;
     }
     .timeline>li .timeline-image h4
     {
-        font-size: 18px;
-        margin-top: 30px;
+        font-size: 13px;
         line-height: 26px;
+        padding :0 17px 0 17px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
@@ -491,7 +493,7 @@ section h3.section-subheading
 {
     .timeline>li
     {
-        min-height: 170px;
+        min-height: 140px;
     }
     .timeline>li .timeline-panel
     {
@@ -499,13 +501,15 @@ section h3.section-subheading
     }
     .timeline>li .timeline-image
     {
-        width: 180px;
-        height: 180px;
-        margin-left: -85px;
+        width: 130px;
+        height: 130px;
+        margin-left: -65px;
     }
     .timeline>li .timeline-image h4
     {
-        margin-top: 40px;
+        font-size: 13px;
+        line-height: 26px;
+        padding :0 17px 0 17px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
