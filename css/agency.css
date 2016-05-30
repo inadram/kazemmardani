@@ -451,7 +451,7 @@ section h3.section-subheading
         font-size: 12px;
         margin-top: 24px;
         line-height: 16px;
-        padding :0 8px 0 8px;
+        padding :0 6px 0 6px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
@@ -481,7 +481,7 @@ section h3.section-subheading
     {
         font-size: 13px;
         line-height: 26px;
-        padding :0 15px 0 15px;
+        padding :0 11px 0 11px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
@@ -509,7 +509,7 @@ section h3.section-subheading
     {
         font-size: 13px;
         line-height: 26px;
-        padding :0 15px 0 15px;
+        padding :0 13px 0 13px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
