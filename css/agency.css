@@ -479,9 +479,9 @@ section h3.section-subheading
     }
     .timeline>li .timeline-image h4
     {
-        font-size: 13px;
+        font-size: 12px;
         line-height: 26px;
-        padding :0 11px 0 11px;
+        padding :0 9px 0 9px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
@@ -507,9 +507,9 @@ section h3.section-subheading
     }
     .timeline>li .timeline-image h4
     {
-        font-size: 13px;
+        font-size: 12px;
         line-height: 26px;
-        padding :0 11px 0 11px;
+        padding :0 9px 0 9px;
     }
     .timeline>li.timeline-inverted>.timeline-panel
     {
